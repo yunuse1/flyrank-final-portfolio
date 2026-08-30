@@ -35,7 +35,7 @@
 | **A2 Connecting to the database** | [GitHub — FlyRank CRUD API](https://github.com/yunuse1/FlyRank-CRUD-API) |
 | **Consistency, Not Talent (and Frame, Not Upstage)** | [Submitted PDF](https://internship.flyrank.ai/api/submission-files/download?path=de12da83-8c0c-471f-8b65-52eb44967a94%2Fcb60a794-354d-4885-a9f5-60c5a10b8e5d%2F3809025f-1f50-49b7-b159-cc1ab4b57b0b-Ads-z-dok-man-5-.pdf) |
 | **Decide Once: Build Your Identity Kit** | [Submitted PDF](https://internship.flyrank.ai/api/submission-files/download?path=de12da83-8c0c-471f-8b65-52eb44967a94%2Fc6388c9c-5de9-4882-958e-6e9d1fd6004a%2F1835e539-dc64-4873-895d-29456c325e4b-Portfolio_Identity_Kit.pdf) |
-| **Kill your darlings: Curate Your Images** | [Submitted PDF](https://internship.flyrank.ai/api/submission-files/download?path=de12da83-8c0c-471f-8b65-52eb44967a94%2F0dea9ecf-d0fd-4bf9-9dfe-fd1239ab8073%2Fa1ba83a4-6822-4b89-bdc7-90857e101d8e%2Fa1ba83a4-6822-4b89-bdc7-90857e101d8e-Ads-z-dok-man-5-.pdf) |
+| **Kill your darlings: Curate Your Images** | [Submitted PDF](https://internship.flyrank.ai/api/submission-files/download?path=de12da83-8c0c-471f-8b65-52eb44967a94%2F0dea9ecf-d0fd-4bf9-9dfe-fd1239ab8073%2Fa1ba83a4-6822-4b89-bdc7-90857e101d8e-Ads-z-dok-man-5-.pdf) |
 | **The Through-Line: Map Content & CTAs** | [Submitted PDF](https://internship.flyrank.ai/api/submission-files/download?path=de12da83-8c0c-471f-40ff-8e03-c8e58e868d38%2F726e81ec-a45b-440e-adbd-c0090f7c9a11-Portfolio_ThroughLine_ContentMap_EN.pdf) |
 | **A3 Containerize your stack** | [GitHub — FlyRank CRUD API](https://github.com/yunuse1/FlyRank-CRUD-API) |
 
@@ -126,13 +126,11 @@ The capstone README is complete and includes:
 
 ### Demo video
 
-**Live end-to-end demo:** [YouTube — Social Media Studio Demo](https://youtu.be/UdL8x_JceMo)
+**Live end-to-end demo:** [YouTube — Social Media Studio Demo](https://www.youtube.com/watch?v=UdL8x_JceMo)
 
 The recording is the live application walkthrough for FL-09. It demonstrates the real workflow and is the video evidence for the documentation and demo requirement.
 
-The recording should be submitted as an **Unlisted YouTube video** in the FlyRank portal.
-
-**Demo recording:** [https://youtu.be/UdL8x_JceMo](https://youtu.be/UdL8x_JceMo)
+**Demo recording:** [https://www.youtube.com/watch?v=UdL8x_JceMo](https://www.youtube.com/watch?v=UdL8x_JceMo)
 
 ### Demo coverage
 
