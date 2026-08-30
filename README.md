@@ -78,16 +78,18 @@
 | **Plant Your Flag: Domain + Badge** | [Live Portfolio](https://yunus-emre-celikkiran.netlify.app/) · [Submitted PDF](https://internship.flyrank.ai/api/submission-files/download?path=de12da83-8c0c-471f-8b65-52eb44967a94%2Ff27280e1-0707-4d8a-bc9a-0cab5210c78a%2F91065ad0-56b7-4312-be0d-f25ce78f0073-Ads-z-dok-man-8-.pdf) |
 | **Your first background job** | [GitHub — Async Task Queue](https://github.com/yunuse1/Async-Task-Queue) |
 
-### Week 8 — In Progress
+### Week 8 — Documentation, Demo & Storytelling
 
-Week 8 deliverables are currently being completed. They will be added to this master index after the tasks are finished and verified.
+| Task | Evidence |
+|---|---|
+| **Show It / Tell the Story** | [Final Portfolio Repository](https://github.com/yunuse1/flyrank-final-portfolio) · [Demo Video](https://docs.google.com/videos/d/1Sd1X-Ygm2D5VTZiXRwguueiffoD3gmPWRgRrjvVlT9A/play?usp=sharing) |
 
 ### Capstone — Social Media Studio
 
 **Project:** Social Media Studio  
 **Repository:** [GitHub — Social Media Studio](https://github.com/yunuse1/Social-Media-Studio)
 
-The capstone is the main final engineering project for the track. Its final README, evaluation results, limitations, and demo will be linked here as they are completed.
+The capstone is the main final engineering project for the track. Its final README, evaluation results, limitations, and demo are maintained in the capstone repository.
 
 ---
 
@@ -99,17 +101,11 @@ The purpose is to give a reviewer one clear starting point for the complete trac
 
 ---
 
-## 📝 Retrospective
+## 🎥 FL-09 Demo
 
-A dedicated 500–800 word retrospective will be added as `retrospective.md` for the FL-10 final checkpoint.
+**Demo:** [Social Media Studio — Live End-to-End Demo](https://docs.google.com/videos/d/1Sd1X-Ygm2D5VTZiXRwguueiffoD3gmPWRgRrjvVlT9A/play?usp=sharing)
 
----
-
-## 🎥 Final Demo
-
-**Status:** To be added after the FL-09 capstone demo is recorded.
-
-The final demo will be a 3–5 minute live walkthrough of the Social Media Studio capstone, including one design decision and one real limitation.
+The demo shows the live Social Media Studio workflow from content ingestion through AI-assisted platform-specific generation, approval, scheduling, background processing, and publishing history. It also explains a key design decision and one current limitation.
 
 ---
 
@@ -120,19 +116,6 @@ AI tools were used throughout the track as development and learning assistants. 
 The final implementations were reviewed, tested, modified, and verified by me. I retained responsibility for architecture, API behavior, validation, database persistence, integration decisions, testing, deployment, and identifying limitations.
 
 The goal was to use AI as a development partner while maintaining engineering ownership of the resulting systems.
-
----
-
-## 🚧 Current Status
-
-- [x] Weeks 1–7 deliverables indexed
-- [x] Capstone repository linked
-- [ ] Week 8 deliverables
-- [ ] FL-09 capstone README + live demo
-- [ ] FL-10 retrospective
-- [ ] Final hours log
-- [ ] Build-in-public post
-- [ ] Final human review checkpoint
 
 ---
 
