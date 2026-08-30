@@ -16,7 +16,7 @@
 | Task | Evidence |
 |---|---|
 | **AI Workflow Audit and Tool Setup** | [Google Docs](https://docs.google.com/document/d/1IDqWKJsNH_J_-Keyb03w5zKJ5vtGjagTVTloofuQedM/edit?usp=sharing) |
-| **Draw the Path: Portfolio Sitemap + Toolkit** | [Google Docs](https://docs.google.com/document/d/1fViZpjHksHPvIfm44nRZEshfn884JM2zMU0KshiSO_I/edit?usp=sharing) |
+| **Draw the Path: Portfolio Sitemap + Toolkit** | [Google Docs](https://docs.google.com/document/d/1fViZPjHksHPvIfm44nRZEshfn884JM2zMU0KshiSO_I/edit?usp=sharing) |
 | **What Are You Proving?** | [Google Docs](https://docs.google.com/document/d/1kLcwTNFOV7LpcotPmNt9PaDJjw_McD0VkMGvEmV9vyE/edit?usp=sharing) |
 
 ### Week 2 — Prompting & Backend Foundations
@@ -35,7 +35,7 @@
 | **A2 Connecting to the database** | [GitHub — FlyRank CRUD API](https://github.com/yunuse1/FlyRank-CRUD-API) |
 | **Consistency, Not Talent (and Frame, Not Upstage)** | [Submitted PDF](https://internship.flyrank.ai/api/submission-files/download?path=de12da83-8c0c-471f-8b65-52eb44967a94%2Fcb60a794-354d-4885-a9f5-60c5a10b8e5d%2F3809025f-1f50-49b7-b159-cc1ab4b57b0b-Ads-z-dok-man-5-.pdf) |
 | **Decide Once: Build Your Identity Kit** | [Submitted PDF](https://internship.flyrank.ai/api/submission-files/download?path=de12da83-8c0c-471f-8b65-52eb44967a94%2Fc6388c9c-5de9-4882-958e-6e9d1fd6004a%2F1835e539-dc64-4873-895d-29456c325e4b-Portfolio_Identity_Kit.pdf) |
-| **Kill your darlings: Curate Your Images** | [Submitted PDF](https://internship.flyrank.ai/api/submission-files/download?path=de12da83-8c0c-471f-8b65-52eb44967a94%2F0dea9ecf-d0fd-4bf9-9dfe-fd1239ab8073%2Fa1ba83a4-6822-4b89-bdc7-90857e101d8e-Portfolio_Image_Curation_Log.pdf) |
+| **Kill your darlings: Curate Your Images** | [Submitted PDF](https://internship.flyrank.ai/api/submission-files/download?path=de12da83-8c0c-471f-8b65-52eb44967a94%2F0dea9ecf-d0fd-4bf-9dfe-fd1239ab8073%2Fa1ba83a4-6822-4b89-bdc7-90857e101d8e-Portfolio_Image_Curation_Log.pdf) |
 | **The Through-Line: Map Content & CTAs** | [Submitted PDF](https://internship.flyrank.ai/api/submission-files/download?path=de12da83-8c0c-471f-40ff-8e03-c8e58e868d38%2F726e81ec-a45b-440e-adbd-c0090f7c9a11-Portfolio_ThroughLine_ContentMap_EN.pdf) |
 | **A3 Containerize your stack** | [GitHub — FlyRank CRUD API](https://github.com/yunuse1/FlyRank-CRUD-API) |
 
@@ -95,7 +95,7 @@
 **Project:** Social Media Studio  
 **Repository:** [GitHub — Social Media Studio](https://github.com/yunuse1/Social-Media-Studio)
 
-The capstone is the main final engineering project for the track. Its final README, evaluation results, limitations, and demo are maintained in the capstone repository.
+The capstone is the main final engineering project for the track. Its final README contains the setup instructions, architecture, v2 evaluation results, reliability decisions, AI transparency disclosure, and limitations.
 
 ---
 
@@ -107,11 +107,32 @@ The purpose is to give a reviewer one clear starting point for the complete trac
 
 ---
 
-## 🎥 FL-09 Demo
+## 🎥 FL-09 — Documentation & Demo
 
-**Demo:** [Social Media Studio — Live End-to-End Demo](https://docs.google.com/videos/d/1Sd1X-Ygm2D5VTZiXRwguueiffoD3gmPWRgRrjvVlT9A/play?usp=sharing)
+### README
 
-The demo shows the live Social Media Studio workflow from content ingestion through AI-assisted platform-specific generation, approval, scheduling, background processing, and publishing history. It also explains a key design decision and one current limitation.
+The capstone README is complete and includes:
+
+- what the agent does and who it is for
+- stranger-reproducible local setup
+- API usage examples
+- architecture sketch
+- v2 evaluation results (**5/5 cases passed, 100%**) 
+- reliability/design decisions
+- AI transparency disclosure
+- known limitations
+
+[Open the Social Media Studio README](https://github.com/yunuse1/Social-Media-Studio#readme)
+
+### Demo video
+
+**Required final format:** 3–5 minute live end-to-end recording with voice narration, uploaded to YouTube as **Unlisted**.
+
+**Current recording guide:** [FL-09 Demo Script](docs/fl09-demo-script.md)
+
+**YouTube link:** _Add the unlisted YouTube URL here after recording._
+
+The recording must visibly demonstrate the real application and explain one design decision and one limitation. Do not record a slide deck.
 
 ---
 
