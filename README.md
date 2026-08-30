@@ -82,6 +82,7 @@
 
 | Task | Evidence |
 |---|---|
+| **Show It / Tell the Story** | [Final Portfolio Repository](https://github.com/yunuse1/flyrank-final-portfolio) · [Demo Video](https://docs.google.com/videos/d/1Sd1X-Ygm2D5VTZiXRwguueiffoD3gmPWRgRrjvVlT9A/play?usp=sharing) |
 | **The Plan to Keep Building** | [Final Portfolio Repository](https://github.com/yunuse1/flyrank-final-portfolio) |
 | **Documentation and Demo Video** | [Final Portfolio Repository](https://github.com/yunuse1/flyrank-final-portfolio) · [YouTube Demo](https://www.youtube.com/watch?v=UdL8x_JceMo) |
 
