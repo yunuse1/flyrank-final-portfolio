@@ -36,7 +36,7 @@
 | **Consistency, Not Talent (and Frame, Not Upstage)** | [Submitted PDF](https://internship.flyrank.ai/api/submission-files/download?path=de12da83-8c0c-471f-8b65-52eb44967a94%2Fcb60a794-354d-4885-a9f5-60c5a10b8e5d%2F3809025f-1f50-49b7-b159-cc1ab4b57b0b-Ads-z-dok-man-5-.pdf) |
 | **Decide Once: Build Your Identity Kit** | [Submitted PDF](https://internship.flyrank.ai/api/submission-files/download?path=de12da83-8c0c-471f-8b65-52eb44967a94%2Fc6388c9c-5de9-4882-958e-6e9d1fd6004a%2F1835e539-dc64-4873-895d-29456c325e4b-Portfolio_Identity_Kit.pdf) |
 | **Kill your darlings: Curate Your Images** | [Submitted PDF](https://internship.flyrank.ai/api/submission-files/download?path=de12da83-8c0c-471f-8b65-52eb44967a94%2F0dea9ecf-d0fd-4bf9-9dfe-fd1239ab8073%2Fa1ba83a4-6822-4b89-bdc7-90857e101d8e-Portfolio_Image_Curation_Log.pdf) |
-| **The Through-Line: Map Content & CTAs** | [Submitted PDF](https://internship.flyrank.ai/api/submission-files/download?path=de12da83-8c0c-471f-8b65-52eb44967a94%2Ff90a3d18-9f31-40ff-8e03-c8e58e868d38%2F726e81ec-a45b-440e-adbd-c0090f7c9a11-Portfolio_ThroughLine_ContentMap_EN.pdf) |
+| **The Through-Line: Map Content & CTAs** | [Submitted PDF](https://internship.flyrank.ai/api/submission-files/download?path=de12da83-8c0c-471f-40ff-8e03-c8e58e868d38%2F726e81ec-a45b-440e-adbd-c0090f7c9a11-Portfolio_ThroughLine_ContentMap_EN.pdf) |
 | **A3 Containerize your stack** | [GitHub — FlyRank CRUD API](https://github.com/yunuse1/FlyRank-CRUD-API) |
 
 ### Week 4 — Authentication, Deployment & Agents
@@ -83,6 +83,12 @@
 | Task | Evidence |
 |---|---|
 | **Show It / Tell the Story** | [Final Portfolio Repository](https://github.com/yunuse1/flyrank-final-portfolio) · [Demo Video](https://docs.google.com/videos/d/1Sd1X-Ygm2D5VTZiXRwguueiffoD3gmPWRgRrjvVlT9A/play?usp=sharing) |
+
+### Week 9 — Keep Building: Next Case Plan
+
+| Task | Evidence |
+|---|---|
+| **The Plan to Keep Building** | [Next Case Plan](docs/next-case-plan.md) |
 
 ### Capstone — Social Media Studio
 
