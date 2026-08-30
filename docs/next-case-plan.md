@@ -27,7 +27,11 @@ The goal is to build a small reusable evaluation harness for backend/AI projects
 
 ## Reminder
 
-A recurring reminder has been created to review the next project and add it as a new portfolio case. The reminder is the concrete trigger to keep the portfolio growing instead of treating it as a one-time submission.
+A concrete calendar reminder has been set for **September 13, 2026, from 1:00–2:00 PM (GMT+03)** with the title **“Add Next Portfolio Case.”**
+
+The reminder is the concrete trigger to review the next project and add it as a new portfolio case instead of treating the portfolio as a one-time submission.
+
+See [`reminder-evidence.md`](reminder-evidence.md) for the recorded reminder details.
 
 ## Preserved build context
 
@@ -37,3 +41,4 @@ My existing Claude Project is being kept as the working context for future portf
 
 - Master portfolio: https://github.com/yunuse1/flyrank-final-portfolio
 - Live portfolio: https://yunus-emre-celikkiran.netlify.app/
+- Reminder evidence: [`reminder-evidence.md`](reminder-evidence.md)
