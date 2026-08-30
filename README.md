@@ -17,7 +17,7 @@
 |---|---|
 | **AI Workflow Audit and Tool Setup** | [Google Docs](https://docs.google.com/document/d/1IDqWKJsNH_J_-Keyb03w5zKJ5vtGjagTVTloofuQedM/edit?usp=sharing) |
 | **Draw the Path: Portfolio Sitemap + Toolkit** | [Google Docs](https://docs.google.com/document/d/1fViZPjHksHPvIfm44nRZEshfn884JM2zMU0KshiSO_I/edit?usp=sharing) |
-| **What Are You Proving?** | [Google Docs](https://docs.google.com/document/d/1kLcwTNFOV7LpcotPmNt9PaDJjw_McD0VkMGvEmV9vyE/edit?usp=sharing) |
+| **What Are You Proving?** | [Google Docs](https://docs.google.com/document/d/1kLcwTNFOV7LpcPmNt9PaDJjw_McD0VkMGvEmV9vyE/edit?usp=sharing) |
 
 ### Week 2 — Prompting & Backend Foundations
 
@@ -82,13 +82,8 @@
 
 | Task | Evidence |
 |---|---|
-| **Show It / Tell the Story** | [Final Portfolio Repository](https://github.com/yunuse1/flyrank-final-portfolio) · [Demo Video](https://docs.google.com/videos/d/1Sd1X-Ygm2D5VTZiXRwguueiffoD3gmPWRgRrjvVlT9A/play?usp=sharing) |
-
-### Week 9 — Keep Building: Next Case Plan
-
-| Task | Evidence |
-|---|---|
-| **The Plan to Keep Building** | [Next Case Plan](docs/next-case-plan.md) |
+| **The Plan to Keep Building** | [Final Portfolio Repository](https://github.com/yunuse1/flyrank-final-portfolio) |
+| **Documentation and Demo Video** | [Final Portfolio Repository](https://github.com/yunuse1/flyrank-final-portfolio) · [YouTube Demo](https://www.youtube.com/watch?v=UdL8x_JceMo) |
 
 ### Capstone — Social Media Studio
 
@@ -129,8 +124,6 @@ The capstone README is complete and includes:
 **Live end-to-end demo:** [YouTube — Social Media Studio Demo](https://www.youtube.com/watch?v=UdL8x_JceMo)
 
 The recording is the live application walkthrough for FL-09. It demonstrates the real workflow and is the video evidence for the documentation and demo requirement.
-
-**Demo recording:** [https://www.youtube.com/watch?v=UdL8x_JceMo](https://www.youtube.com/watch?v=UdL8x_JceMo)
 
 ### Demo coverage
 
